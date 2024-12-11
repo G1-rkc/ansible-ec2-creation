@@ -16,5 +16,5 @@
       aws_secret_key: "{{aws_secret_key}}"
       network_interfaces:
        - assign_public_ip: true
-      image_id: ami-053b12d3152c0cc71
-        
+      image_id: ami-053b12d3152c0cc71   
+
